@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 项目特定
+audio_output/
+articles_for_review/
+audio_with_bgm/
+*.mp3
+*.wav
+*.m4a
+
+# 临时文件
+*.tmp
+*.temp
+.*~
+.file_list.txt
+*.xlsx
+*.xls
+
+# 日志
+*.log
+
+# 测试
+test_*.txt
+test_*.mp3
